@@ -2,7 +2,7 @@
 /* istanbul ignore file */
 /* tslint:disable */
 /* eslint-disable */
-import {CancelablePromise, Tutorial} from 'src/api';
+import { CancelablePromise, Tutorial } from 'src/api';
 import { OpenAPI_Portal_Prod } from '../core/OpenAPI';
 import { request as __request } from '../core/request';
 export class TutorialService {
